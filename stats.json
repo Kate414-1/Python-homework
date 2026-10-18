@@ -1,8 +1,0 @@
-{
-    "methods": {
-        "GET": 4,
-        "POST": 1
-    },
-    "errors_4xx": 2,
-    "most_frequent_url": "/login"
-}
