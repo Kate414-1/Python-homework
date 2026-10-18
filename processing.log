@@ -1,0 +1,5 @@
+INFO:root:Начало обработки
+WARNING:root:Ошибка 401: /login
+WARNING:root:Ошибка 403: /admin
+INFO:root:Обработка завершена
+INFO:root:Статистика сохранена
